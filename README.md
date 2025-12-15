@@ -1,6 +1,6 @@
 # Local AI Assistant Prototype 🤖
 
-A lightweight, secure, and locally hosted AI chatbot interface built with Python.
+A Secure, and locally hosted AI chatbot interface built with Python.
 
 ## 🎯 Project Overview
 This project demonstrates a **Full-Stack AI implementation** integrating a Large Language Model (LLM) with a user-friendly interface (Telegram). The goal was to create an AI assistant that runs **locally on consumer hardware**, ensuring data privacy and zero cloud dependency.
