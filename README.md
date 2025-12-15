@@ -20,5 +20,5 @@ This project demonstrates a **Full-Stack AI implementation** integrating a Large
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/Local-LLM-Assistant.git](https://github.com/yourusername/Local-LLM-Assistant.git)
+   git clone [https://github.com/Abh9999/LLM_telebot](https://github.com/Abh9999/LLM_telebot)
    cd Local-LLM-Assistant
